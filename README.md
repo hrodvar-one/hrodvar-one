@@ -1,5 +1,12 @@
 ### Hi! My name is Aleksandr. Welcome! :v:
 
+#### About me
+
+* I am a 35 year old programmer from Omsk :computer:
+* I learn Java at [Job4j](https://job4j.ru/) :coffee:
+* My Java experience is 1 year :watch:
+
+-----------
 <!--
 **hrodvar-one/hrodvar-one** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
