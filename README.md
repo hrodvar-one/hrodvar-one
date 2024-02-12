@@ -13,6 +13,9 @@
 #### Here is my study projects:
 ##### Lessons of:
 1. [Java SE](https://github.com/hrodvar-one/job4j_tracker)
+
+![Aleksandr's github stats](https://github-readme-stats.vercel.app/api?username=hrodvar-one&hide=stars,prs,issues,contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrodvar-one&layout=compact)](https://github.com/hrodvar-one/github-readme-stats)
 <!--
 **hrodvar-one/hrodvar-one** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
