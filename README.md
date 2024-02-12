@@ -7,6 +7,12 @@
 * My Java experience is 1 year :watch:
 
 -----------
+<b>Core technologies:</b>
+> ![Java](https://img.shields.io/badge/Java-%3E%3D%208-orange) 
+
+#### Here is my study projects:
+##### Lessons of:
+1. [Java SE](https://github.com/hrodvar-one/job4j_tracker)
 <!--
 **hrodvar-one/hrodvar-one** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
