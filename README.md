@@ -2,9 +2,9 @@
 
 <h3>HELLO</h3>
 I am Aleksandr. I am Java programmer<br>
-Telegram: @hrodvar <br>
+<!-- Telegram: @hrodvar <br>
 Email: kobel.san.sanich@gmail.com <br>
-Subscribe to Linkedin: https://www.linkedin.com/in/hrodvar/
+Subscribe to Linkedin: https://www.linkedin.com/in/hrodvar/ -->
 
 -----------
 <h3>SKILLS</h3>
