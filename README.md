@@ -1,20 +1,19 @@
 ![](https://komarev.com/ghpvc/?username=hrodvar-one)<br/>
 
 <h3>HELLO</h3>
-I am Aleksandr. I am Java programmer<br>
-<!-- Telegram: @hrodvar <br>
-Email: kobel.san.sanich@gmail.com <br>
-Subscribe to Linkedin: https://www.linkedin.com/in/hrodvar/ -->
+I am Aleksandr. I am Java programmer <br>
+Telegram: @alex_dev_java <br>
+Email: aleksandr.developer.work@gmail.com <br>
 
 -----------
 <h3>SKILLS</h3>
 
-**Java:** 8-17 SE, Java Core, OOP, SOLID, TDD, DRY <br>
-**db:** JDBC, PostgreSQL, Liquibase, H2 <br>
+**Java:** 8-21 SE, Java Core, OOP, SOLID, TDD, DRY <br>
+**db:** JDBC, JPA, Hibernate, PostgreSQL, MySQL, Liquibase, H2 <br>
 **frontend:** Javascript, SCSS <br>
 **test:** JUnit 5, AssertJ <br>
 **log:** Log4j, Slf4j <br>
-**build:** Maven <br>
+**build:** Maven, Gradle <br>
 **utils:** PgAdmin, Java Visual VM, Curl <br>
 **other:** Git, Jsoup, СheckStyle <br>
 **OS:** Windows, Linux(Debian, Ubuntu, Astra Linux) <br>
