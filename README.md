@@ -21,36 +21,47 @@ Email: aleksandr.developer.work@gmail.com <br>
 -----------
 <h3>PROJECTS</h3>
 
-**1.** Веб-приложение "Кинотеатр" по покупке билетов в кино. <br>
+**1.** Веб-приложение “Todo List” для управления списком заданий. <br>
+https://github.com/hrodvar-one/job4j_todo <br>
+При разработке использовал Java 17, Maven, Spring Boot, Tomcat, Hibernate, Thymeleaf, <br>
+Bootstrap, миграция БД через Liquibase, СУБД PostgreSQL, БД для тестов H2 Database, Junit5, <br>
+Jacoco, Mockito, Docker, Docker Compose. <br>
+Приложение позволяет:
+ - Зарегистрировать нового пользователя или войти в систему при наличии аккаунта.
+ - Создать, редактировать, удалить заявку.
+ - Сменить статус заявки.
+ - Показать только заявки в работе, либо завершённые заявки.
+ - Установить приоритет заявки. <br>
+
+**2.** Веб-приложение "Кинотеатр" по покупке билетов в кино. <br>
 https://github.com/hrodvar-one/job4j_cinema <br>
-При разработке использовал Java 17, Maven, Spring Boot, Tomcat, Hibernate, Нативный JDBC, Thymeleaf, <br>
+При разработке использовал Java 17, Maven, Spring Boot, Tomcat, Sql2o, Нативный JDBC, Thymeleaf, <br>
 Bootstrap, миграция БД через Liquibase, СУБД PostgreSQL, БД для тестов H2 Database, Junit5, <br>
 Jacoco, Mockito, Docker, Docker Compose. <br>
 Приложение позволяет:
  - Зарегистрировать нового пользователя или войти в систему при наличии аккаунта.
  - Посмотреть информацию о киносеансах и фильмах.
- - Купить билет.
- <br>
+ - Купить билет. <br>
 
-**2.** Консольное приложение для работы с заявками <br>
+**3.** Консольное приложение для работы с заявками <br>
 https://github.com/hrodvar-one/job4j_tracker <br>
 При разработке использовал Liquibase, Junit5, Checkstyle, H2 Database. <br>
 Приложение хранит заявки в PostgreSQL. <br>
 Выполнил профилирование запущенного приложения с помощью Java Visual VM на предмет утечки памяти. <br>
 
-**3.** Парсер Java вакансий c Хабр Карьера <br>
+**4.** Парсер Java вакансий c Хабр Карьера <br>
 https://github.com/hrodvar-one/job4j_grabber <br>
 При разработке использовал Quartz, Log4j, Checkstyle. <br>
 Полученные вакансии записываются в базу PostgreSQL через JDBC. <br>
 Есть возможность просмотра спарсенных вакансий через веб-браузер. <br>
 
-**4.** Консольное приложение для создания древовидного меню <br>
+**5.** Консольное приложение для создания древовидного меню <br>
 https://github.com/hrodvar-one/job4j_clean_code_lsp <br>
 
-**5.** Консольное приложение "Камень, ножницы, бумага" <br>
+**6.** Консольное приложение "Камень, ножницы, бумага" <br>
 https://github.com/hrodvar-one/rock_scissors_paper <br>
 
-**6.** Онлайн таймер на нативном Javascript + SCSS <br>
+**7.** Онлайн таймер на нативном Javascript + SCSS <br>
 https://hrodvar-one.github.io/onlinetimer/ <br>
 
 ![Aleksandr's github stats](https://github-readme-stats.vercel.app/api?username=hrodvar-one&hide=stars,prs,issues,contribs)
